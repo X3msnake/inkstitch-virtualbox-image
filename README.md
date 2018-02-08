@@ -27,6 +27,8 @@ Virtual Box Guest addtitions is installed wich allows for seamless integration i
 
 Software installed:
 - Inkscape 0.92.1
+- Inkstitch Extension
 - Gimp 2.8.18
 - Atom 1.23.3
 - Firefox ESR 52.6.0
+
