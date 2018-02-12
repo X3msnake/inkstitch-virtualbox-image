@@ -1,9 +1,13 @@
 # inkstitch-virtualbox-image
 Image compiled for Lexelby inkstitch extension for inkscape - 64Bit Debian VM image based on DietPi with gimp atom and inkscape 
 
-[Download > Inkstitch VM Debian 64bit](https://mega.nz/#F!NupgDY7a!aod3BMqECzMkJXvuXYAKkQ)
+[Download Latest Release > Inkstitch VM Debian 64bit](https://github.com/X3msnake/inkstitch-virtualbox-image/releases/latest)
 
 ### INSTALLATION 
+
+#### ALL OPERATING SYSTEMS
+
+- Unzip the image
 
 #### WINDOWS
 - Make sure your pc bios has [virtualization on](https://www.youtube.com/watch?v=f8qYmpLzo60) 
@@ -26,6 +30,8 @@ Pass: DietPi
 The VM creates a network share with the name DIETPI that can be acessed using the user and pass trough the Host network map
 
 On Windows you can directly drag files from the Guest to the host.
+
+The image will show up in your network as DIETPI, you can also acess the shared folders and even mount them as drives for easy share between Guest and Host
 
 
 ### Other info
