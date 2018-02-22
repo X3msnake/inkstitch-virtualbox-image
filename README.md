@@ -20,7 +20,7 @@ Image compiled for Lexelby inkstitch extension for inkscape - 64Bit Debian VM im
 - [Download](https://mega.nz/#F!NupgDY7a!aod3BMqECzMkJXvuXYAKkQ) image
 - Right click on image and choose run with VirtualBox
 
-### LINUX
+#### LINUX
 - You probably don't need this VM as you can use one of the inkstitch releases for [64bit](https://github.com/lexelby/inkstitch/releases/latest) or
  [32bit](https://github.com/lexelby/inkstitch/releases/tag/dev-build-32bit)
  
