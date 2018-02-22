@@ -20,7 +20,11 @@ Image compiled for Lexelby inkstitch extension for inkscape - 64Bit Debian VM im
 - [Download](https://mega.nz/#F!NupgDY7a!aod3BMqECzMkJXvuXYAKkQ) image
 - Right click on image and choose run with VirtualBox
 
-#### Root User / Pass
+### LINUX
+- You probably don't need this VM as you can use one of the inkstitch releases for [64bit](https://github.com/lexelby/inkstitch/releases/latest) or
+ [32bit](https://github.com/lexelby/inkstitch/releases/tag/dev-build-32bit)
+ 
+#### Root User / Pass - To use with network access from the host OS or terminal ops in the Guest OS if needed
 User: root
 Pass: DietPi
 
@@ -43,6 +47,6 @@ Software installed:
 - Inkscape 0.92.1
 - Inkstitch Extension
 - Gimp 2.8.18
-- Atom 1.23.3
+~~- Atom 1.23.3~~
 - Firefox ESR 52.6.0
 
