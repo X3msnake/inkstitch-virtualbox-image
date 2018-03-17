@@ -12,12 +12,13 @@ Image compiled for Lexelby inkstitch extension for inkscape - 64Bit Debian VM im
 #### WINDOWS
 - Make sure your pc bios has [virtualization on](https://www.youtube.com/watch?v=f8qYmpLzo60) 
 - Install [Virtualbox](https://www.virtualbox.org/)
-- [Download](https://mega.nz/#F!NupgDY7a!aod3BMqECzMkJXvuXYAKkQ) image 
+- [Download](https://github.com/X3msnake/inkstitch-virtualbox-image/releases/latest) image 
 - Double click on the file or open VB and do [Import](https://www.maketecheasier.com/import-export-ova-files-in-virtualbox/)
+- There is a stable version of the extension for windows if you don't want to use a virtual machine [here](https://github.com/lexelby/inkstitch/releases/latest)
 
 #### MAC
 - Install [Virtualbox](https://www.virtualbox.org/)
-- [Download](https://mega.nz/#F!NupgDY7a!aod3BMqECzMkJXvuXYAKkQ) image
+- [Download](https://github.com/X3msnake/inkstitch-virtualbox-image/releases/latest) image
 - Right click on image and choose run with VirtualBox
 
 #### LINUX
